@@ -8,5 +8,5 @@ https://lillychin.github.io/plushie-adoption-certificate/
 5. 預覽產生的證書
 6. 點擊下載證書PNG即可將圖片儲存電腦
 
-## 作品展示
+## 輸出結果
 ![娃娃領養證書預覽](certificate_preview.png)
